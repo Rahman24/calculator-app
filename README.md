@@ -2,6 +2,12 @@
 
 _This project was created with Flutter_
 
+## Features
+- Basic Calculator Operations including Addition, Subtraction, Multiplication, Division, Exponentiation and Modulus
+- Trigonometric Functions including sine, cosine tangent
+- Feature to store History so that you can get back to any stage of your calculation.
+- You can also clear the history of you don't need them 
+
 ## Screenshots:
 ![](assets/snips/1.png)
 ![](assets/snips/2.png)
